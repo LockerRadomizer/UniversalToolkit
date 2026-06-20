@@ -150,7 +150,7 @@ pip install PyQt5 psutil requests
 
 ## 👨‍💻 Author
 
-Created by LockerRadomizer/KitsuVibe/PowerfulElixir
+Created by LockerRadomizer
 SocialMedia: [My Twitch Channel KitsuVibe](https://www.twitch.tv/KitsuVibe)
 [My YouTube Channel](https://www.youtube.com/@KitsuVibes)
 Universal Toolkit v0.3
